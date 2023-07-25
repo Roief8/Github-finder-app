@@ -4,7 +4,8 @@ Search github profiles and view profile data and repositories.
 
 ## Tools used
 
-React JS, Tailwind CSS and DaisyUI, GithubAPI, Axios.
+React JS - ContextAPI and useReducer.
+Tailwind CSS and DaisyUI, GithubAPI, Axios for fetching data.
 
 App deployed on AWS S3.
 
